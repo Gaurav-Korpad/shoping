@@ -84,7 +84,7 @@ function Cart() {
 
             </div>
           </div>
-        </div>
+        </div>  
       </section>
 
       <section className='container'>
