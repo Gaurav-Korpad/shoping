@@ -1,10 +1,10 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import ShopingMart from "./ShopingMart/Main"
+import Buynow from './Task/Main'
 function App() {
   return (
-    <div>
-      <ShopingMart/>
+    <div className="App">
+      <Buynow/>
     </div>
   );
 }
